@@ -25,6 +25,8 @@ RubyCamp2015Summer Group1
 
 ![1-d4](https://github.com/RubyCamp/rc2015s_g1/wiki/images/1-d4.JPG)
 
+![1-d5](https://github.com/RubyCamp/rc2015s_g1/wiki/images/1-d5.JPG)
+
 ![field1](https://github.com/RubyCamp/rc2015s_g1/wiki/images/field1.JPG)
 
 ![field2](https://github.com/RubyCamp/rc2015s_g1/wiki/images/field2.JPG)
